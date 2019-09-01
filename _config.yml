@@ -1,0 +1,8 @@
+title: Simplestore
+description: A clean, responsive storefront boilerplate with no database or backend
+google_analytics: UA-61706457-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
